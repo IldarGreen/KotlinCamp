@@ -60,3 +60,5 @@ gradle/
 build/
 *.jar
 *.iml
+
+.DS_Store
